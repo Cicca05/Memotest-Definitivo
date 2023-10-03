@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: rgb(35,193,42);
+    background: radial-gradient(circle, rgba(35,193,42,1) 0%, rgba(5,25,1,1) 53%, rgba(0,0,0,1) 100%);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+table{
+    margin:0 auto;
+    border:10px solid aquamarine ;
+}
+button{
+    height: 100px;
+    width: 100px;
+    font-size: 70px;
+    color: red;
+}
+img{
+    width: 80%;
+}
